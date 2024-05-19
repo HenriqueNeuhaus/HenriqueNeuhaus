@@ -1,4 +1,5 @@
-## Olá, Eu sou Henrique Neuhaus
+## Eu sou Henrique Neuhaus
+## Ciência da Computação - UFJ
  <div>
   <a href="https://github.com/henriqueneuhaus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueneuhaus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
